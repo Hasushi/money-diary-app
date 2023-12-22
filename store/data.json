@@ -1,0 +1,34 @@
+[
+  {
+    "name": "12月給料",
+    "category": {
+      "Income": "Salary"
+    },
+    "price": 27020,
+    "date": "2023-12-22"
+  },
+  {
+    "name": "外食",
+    "category": {
+      "Expense": "Food"
+    },
+    "price": 1500,
+    "date": "2023-12-22"
+  },
+  {
+    "name": "11月給料",
+    "category": {
+      "Income": "Salary"
+    },
+    "price": 100000,
+    "date": "2023-11-22"
+  },
+  {
+    "name": "外食",
+    "category": {
+      "Expense": "Food"
+    },
+    "price": 150000,
+    "date": "2023-11-22"
+  }
+]
